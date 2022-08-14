@@ -9,7 +9,7 @@
 
 
 
-Yandex_practikum Projects
+## Yandex_practikum Projects
 ### Below you can find projects that I completed through my course
 
 | Project | Description | 
